@@ -2,7 +2,7 @@
 
 This is a simplified mockup of the **Gliderr** website, designed with a clean and user-friendly interface.
 
-##Features
+Features
 
 * **Top Navigation Bar**
   Includes icons for:
@@ -25,7 +25,7 @@ This is a simplified mockup of the **Gliderr** website, designed with a clean an
   Visual representation of your goals and their completion status to help you track progress.
 
 
-##Goal
+Goal
 
 The aim of this project is to create a clean, functional interface that reflects the core features of the Gliderr platform. It focuses on simplicity, ease of use, and productivity.
 
